@@ -1,0 +1,8 @@
+I want to make an application in javascript that saves the data like contact bookfor a person.
+As we all know that now adays there is a problem to remember everything.
+So,this application helps to save all the things.
+In the first page, there will be a text box that takes name of a person
+that we want to add in our list then there will be one another page
+that contains whole data like their address,contact,personal information,and
+other information that we want to take.After that there is one list that will
+shows the names of person that is saved in our list
